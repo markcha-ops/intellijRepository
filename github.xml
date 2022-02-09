@@ -1,7 +1,7 @@
 <application>
   <component name="GithubAccounts">
-    <account id="76c3562f-a434-4431-8935-c1a77620a601" name="markcha-ops">
-      <server host="github.com" />
+    <account id="67781d28-77f4-4633-9524-20e9a661f028" name="markcha-ops">
+      <server useHttp="false" host="github.com" />
     </account>
   </component>
 </application>
