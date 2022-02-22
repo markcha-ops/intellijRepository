@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="SET_ENV" type="PLAIN_TEXT" />
+      <mapping pattern="DELETE_ALL" type="PLAIN_TEXT" />
       <mapping pattern="APP_BUILD" type="PLAIN_TEXT" />
       <mapping pattern="DB_RUN" type="PLAIN_TEXT" />
     </extensionMap>
