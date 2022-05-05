@@ -2,5 +2,6 @@
   <component name="IntentionManagerSettings">
     <ignoreAction name="Java/Declaration/Split declaration" />
     <ignoreAction name="Java/Imports/Add on-demand static import" />
+    <ignoreAction name="Java/Imports/Add single-member static import" />
   </component>
 </application>
