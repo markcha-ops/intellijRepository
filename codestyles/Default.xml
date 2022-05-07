@@ -1,1 +1,10 @@
-<code_scheme name="Default" version="173" />
+<code_scheme name="Default" version="173">
+  <JavaCodeStyleSettings>
+    <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
+      <value>
+        <package name="java.awt" withSubpackages="true" static="true" />
+        <package name="javax.swing" withSubpackages="true" static="true" />
+      </value>
+    </option>
+  </JavaCodeStyleSettings>
+</code_scheme>
