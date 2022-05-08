@@ -157,6 +157,11 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="org.jetbrains.plugins.vue">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
         <entry key="sheendevelops">
           <value>
             <PluginData>
