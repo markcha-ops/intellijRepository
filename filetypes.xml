@@ -1,12 +1,12 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="SET_ENV" type="PLAIN_TEXT" />
-      <mapping pattern="DELETE_ALL" type="PLAIN_TEXT" />
       <mapping pattern="APP_BUILD" type="PLAIN_TEXT" />
+      <mapping pattern="DELETE_ALL" type="PLAIN_TEXT" />
       <mapping pattern="DB_RUN" type="PLAIN_TEXT" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
+      <mapping pattern="SET_ENV" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
 </application>
