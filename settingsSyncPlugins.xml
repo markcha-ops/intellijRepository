@@ -2,6 +2,18 @@
   <component name="SettingsSyncPlugins">
     <option name="plugins">
       <map>
+        <entry key="IdeaVIM">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
         <entry key="cn.haojiyou.CodeGlance3">
           <value>
             <PluginData>
@@ -96,6 +108,22 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.intellij.lang.jsgraphql">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.intellij.plugins.watcher">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
         <entry key="com.mallowigi">
           <value>
             <PluginData>
@@ -132,6 +160,18 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="fr.jukien.intellij.plugins.pojo-generator">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.database" />
+                  <option value="com.intellij.modules.java" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="io.github.kings1990.FastRequest">
           <value>
             <PluginData>
@@ -158,6 +198,11 @@
           </value>
         </entry>
         <entry key="org.jetbrains.plugins.vue">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
+        <entry key="org.liujing.generator">
           <value>
             <PluginData />
           </value>
