@@ -231,6 +231,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.starxg.mybatis-log-plugin-free">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.vincentp.gruvbox-theme">
           <value>
             <PluginData>
