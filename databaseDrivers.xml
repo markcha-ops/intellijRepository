@@ -1,11 +1,10 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="201">
     <driver id="mariadb">
-      <artifact id="MariaDB Connector J" name="MariaDB Connector J" use="true" version="2.7.3" />
+      <artifact id="MariaDB Connector J" name="MariaDB Connector J" use="true" version="3.0.7" />
     </driver>
     <driver id="mysql.8">
       <artifact id="MySQL Connector/J 8" name="MySQL Connector/J 8" use="true" version="8.0.21" />
     </driver>
-    <driver id="snowflake" />
   </component>
 </application>
