@@ -2,6 +2,18 @@
   <component name="SettingsSyncPlugins">
     <option name="plugins">
       <map>
+        <entry key="ChatGPT">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                  <option value="org.intellij.plugins.markdown" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="CopilotDarkTheme">
           <value>
             <PluginData>
@@ -14,12 +26,39 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="Dart">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.xml" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="IdeaVIM">
           <value>
             <PluginData>
               <option name="dependencies">
                 <set>
                   <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="MyBatisLog">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.database" />
+                  <option value="com.intellij.modules.java" />
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.platform" />
+                  <option value="com.intellij.modules.xml" />
                 </set>
               </option>
               <option name="enabled" value="false" />
@@ -47,6 +86,28 @@
                 </set>
               </option>
               <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.baomidou.plugin.idea.mybatisx">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.ccnode.codegenerator.MyBatisCodeHelperPro">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                </set>
+              </option>
             </PluginData>
           </value>
         </entry>
@@ -133,6 +194,7 @@
                   <option value="com.intellij.modules.platform" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -193,6 +255,18 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.starxg.mybatis-log-plugin-free">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.vincentp.gruvbox-theme">
           <value>
             <PluginData>
@@ -213,6 +287,24 @@
                 <set>
                   <option value="com.intellij.database" />
                   <option value="com.intellij.modules.java" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="io.flutter">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="Dart" />
+                  <option value="Git4Idea" />
+                  <option value="com.intellij.modules.coverage" />
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.platform" />
+                  <option value="com.intellij.modules.xdebugger" />
+                  <option value="org.jetbrains.android" />
+                  <option value="org.jetbrains.plugins.yaml" />
                 </set>
               </option>
             </PluginData>
